@@ -143,6 +143,9 @@ already running **cifuzz** in a container), you might want to disable
 the sandbox via the `--use-sandbox=false` flag or the
 [`use-sandbox: false` config file setting](docs/Configuration.md#use-sandbox).
 
+## Upcoming Live Stream
+On October 4th, [@jochil](https://github.com/jochil) - one of the mainntainers of cifuzz - is going to jump on a live stream to share some best practices on how to set up CLI-integrated fuzz testing using ci fuzz. The event will be freely accesible on YouTube and Linkedin. Click [here](https://www.code-intelligence.com/webinar/uncovering-hidden-bugs-and-vulnerabilities) for more info.
+
 ## Contributing
 Want to help improve cifuzz? Check out our [contributing documentation](CONTRIBUTING.md).
 There you will find instructions for building the tool locally.
